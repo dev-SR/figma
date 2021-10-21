@@ -4,9 +4,10 @@
 		- [Creating Shapes](#creating-shapes)
 		- [Image PlaceHolder](#image-placeholder)
 		- [Mask](#mask)
+		- [Reuse Styles](#reuse-styles)
+		- [Creating Components and Reusing Them](#creating-components-and-reusing-them)
 	- [ShortCut](#shortcut)
 		- [Duplicate](#duplicate)
-	- [Reuse Styles](#reuse-styles)
 
 # Figma
 
@@ -54,18 +55,7 @@
 <img src="./asset/mask_1.gif" width="700px"/>
 </div>
 
-## ShortCut
-
-### Duplicate
-
-- Hold `ALT` and Drag to duplicate or,
-- With current shape selected, simply hit CTRL-D to duplicate the shape. You can also CTRL-C and CTRL-V (copy and paste) for the same behavior.
-
-<div align="center">
-<img src="./asset/duplicate.gif" width="700px"/>
-</div>
-
-## Reuse Styles
+### Reuse Styles
 
 <div align="center">
 <img src="./asset/reuse_style.gif" width="700px"/>
@@ -82,3 +72,23 @@
 <div align="center">
 <img src="./asset/styles_hierarchy_2.jpg" width="700px"/>
 </div>
+
+### Creating Components and Reusing Them
+
+<div align="center">
+<img src="./asset/component_instance.gif" width="700px"/>
+</div>
+
+> Instance can be detach from master components through `Detach Instance` option or `Ctrl+Alt+B` key
+
+## ShortCut
+
+### Duplicate
+
+- Hold `ALT` and Drag to duplicate or,
+- With current shape selected, simply hit CTRL-D to duplicate the shape. You can also CTRL-C and CTRL-V (copy and paste) for the same behavior.
+
+<div align="center">
+<img src="./asset/duplicate.gif" width="700px"/>
+</div>
+
