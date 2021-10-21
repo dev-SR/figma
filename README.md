@@ -7,6 +7,7 @@
 		- [Reuse Styles](#reuse-styles)
 		- [Creating Components and Reusing Them](#creating-components-and-reusing-them)
 		- [Constraining [applying limitation] Components](#constraining-applying-limitation-components)
+		- [Rulers](#rulers)
 	- [ShortCut](#shortcut)
 		- [Zoom and Pan](#zoom-and-pan)
 			- [Zoom](#zoom)
@@ -91,6 +92,18 @@
 
 <div align="center">
 <img src="./asset/constrain.gif" width="700px"/>
+</div>
+
+### Rulers
+
+- `Shift ⇧R`
+
+<div align="center">
+<img src="./asset/ruler_1.jpg" width="700px"/>
+</div>
+
+<div align="center">
+<img src="./asset/rulers.gif" width="700px"/>
 </div>
 
 ## ShortCut
