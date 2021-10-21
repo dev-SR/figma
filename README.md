@@ -1,6 +1,6 @@
 - [Figma](#figma)
 	- [Basics of Figma tools](#basics-of-figma-tools)
-		- [Creating Circle, lines in same proportions](#creating-circle-lines-in-same-proportions)
+		- [Creating Circle, lines with same proportions](#creating-circle-lines-with-same-proportions)
 		- [Creating Shapes](#creating-shapes)
 		- [Image PlaceHolder](#image-placeholder)
 		- [Mask](#mask)
@@ -11,7 +11,7 @@
 
 ## Basics of Figma tools
 
-### Creating Circle, lines in same proportions
+### Creating Circle, lines with same proportions
 
 - press `SHIFT` then draw to preserve ratio:
 
