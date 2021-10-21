@@ -21,3 +21,17 @@
 <div align="center">
 <img src="./asset/shape_circle_1.gif" width="600px"/>
 </div>
+
+### Image PlaceHolder
+
+- Placing Image
+
+<div align="center">
+<img src="./asset/place_image_1.gif" width="600px"/>
+</div>
+
+- Changing Image Quickly
+
+<div align="center">
+<img src="./asset/place_image_2.gif" width="600px"/>
+</div>
