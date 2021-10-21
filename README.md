@@ -6,6 +6,7 @@
 		- [Mask](#mask)
 	- [ShortCut](#shortcut)
 		- [Duplicate](#duplicate)
+	- [Reuse Styles](#reuse-styles)
 
 # Figma
 
@@ -64,3 +65,13 @@
 <div align="center">
 <img src="./asset/duplicate.gif" width="600px"/>
 </div>
+
+## Reuse Styles
+
+<div align="center">
+<img src="./asset/reuse_style.gif" width="600px"/>
+</div>
+
+> Likewise, styles can be created for Text and other component
+
+
