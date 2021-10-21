@@ -1,3 +1,9 @@
+- [Figma](#figma)
+	- [Basics of Figma tools](#basics-of-figma-tools)
+		- [Creating Circle, lines in same proportions](#creating-circle-lines-in-same-proportions)
+		- [Creating Shapes](#creating-shapes)
+		- [Image PlaceHolder](#image-placeholder)
+
 # Figma
 
 ## Basics of Figma tools
