@@ -4,6 +4,8 @@
 		- [Creating Shapes](#creating-shapes)
 		- [Image PlaceHolder](#image-placeholder)
 		- [Mask](#mask)
+	- [ShortCut](#shortcut)
+		- [Duplicate](#duplicate)
 
 # Figma
 
@@ -49,4 +51,16 @@
 -
 <div align="center">
 <img src="./asset/mask_1.gif" width="600px"/>
+</div>
+
+
+## ShortCut
+
+### Duplicate
+
+- Hold `ALT` and Drag to duplicate or,
+- With current shape selected, simply hit CTRL-D to duplicate the shape. You can also CTRL-C and CTRL-V (copy and paste) for the same behavior.
+
+<div align="center">
+<img src="./asset/duplicate.gif" width="600px"/>
 </div>
