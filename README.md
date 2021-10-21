@@ -3,6 +3,7 @@
 		- [Creating Circle, lines in same proportions](#creating-circle-lines-in-same-proportions)
 		- [Creating Shapes](#creating-shapes)
 		- [Image PlaceHolder](#image-placeholder)
+		- [Mask](#mask)
 
 # Figma
 
@@ -40,4 +41,12 @@
 
 <div align="center">
 <img src="./asset/place_image_2.gif" width="600px"/>
+</div>
+
+### Mask
+
+- Use as Mask
+-
+<div align="center">
+<img src="./asset/mask_1.gif" width="600px"/>
 </div>
