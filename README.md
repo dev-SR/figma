@@ -17,11 +17,11 @@
 - press `SHIFT` then draw to preserve ratio:
 
 <div align="center">
-<img src="./asset/shift_and_draw.gif" width="600px"/>
+<img src="./asset/shift_and_draw.gif" width="700px"/>
 </div>
 
 <div align="center">
-<img src="./asset/shift_and_draw_2.gif" width="600px"/>
+<img src="./asset/shift_and_draw_2.gif" width="700px"/>
 </div>
 
 ### Creating Shapes
@@ -29,7 +29,7 @@
 - Pie, Ring with circle's Arc
 
 <div align="center">
-<img src="./asset/shape_circle_1.gif" width="600px"/>
+<img src="./asset/shape_circle_1.gif" width="700px"/>
 </div>
 
 ### Image PlaceHolder
@@ -37,13 +37,13 @@
 - Placing Image
 
 <div align="center">
-<img src="./asset/place_image_1.gif" width="600px"/>
+<img src="./asset/place_image_1.gif" width="700px"/>
 </div>
 
 - Changing Image Quickly
 
 <div align="center">
-<img src="./asset/place_image_2.gif" width="600px"/>
+<img src="./asset/place_image_2.gif" width="700px"/>
 </div>
 
 ### Mask
@@ -51,7 +51,7 @@
 - Use as Mask
 
 <div align="center">
-<img src="./asset/mask_1.gif" width="600px"/>
+<img src="./asset/mask_1.gif" width="700px"/>
 </div>
 
 ## ShortCut
@@ -62,13 +62,13 @@
 - With current shape selected, simply hit CTRL-D to duplicate the shape. You can also CTRL-C and CTRL-V (copy and paste) for the same behavior.
 
 <div align="center">
-<img src="./asset/duplicate.gif" width="600px"/>
+<img src="./asset/duplicate.gif" width="700px"/>
 </div>
 
 ## Reuse Styles
 
 <div align="center">
-<img src="./asset/reuse_style.gif" width="600px"/>
+<img src="./asset/reuse_style.gif" width="700px"/>
 </div>
 
 > Likewise, styles can also be created for Text,Effects and other component.
@@ -76,9 +76,9 @@
 - Creating Style Hierarchy
 
 <div align="center">
-<img src="./asset/styles_hierarchy.jpg" width="800px"/>
+<img src="./asset/styles_hierarchy.jpg" width="700px"/>
 </div>
 
 <div align="center">
-<img src="./asset/styles_hierarchy_2.jpg" width="800px"/>
+<img src="./asset/styles_hierarchy_2.jpg" width="700px"/>
 </div>
