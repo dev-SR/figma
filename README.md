@@ -8,6 +8,9 @@
 		- [Creating Components and Reusing Them](#creating-components-and-reusing-them)
 		- [Constraining [applying limitation] Components](#constraining-applying-limitation-components)
 	- [ShortCut](#shortcut)
+		- [Zoom and Pan](#zoom-and-pan)
+			- [Zoom](#zoom)
+			- [Pan or Moving the canvas](#pan-or-moving-the-canvas)
 		- [Duplicate](#duplicate)
 		- [Direct Child Selection](#direct-child-selection)
 		- [Search anything - Quick Action](#search-anything---quick-action)
@@ -91,6 +94,30 @@
 </div>
 
 ## ShortCut
+
+### Zoom and Pan
+
+<div align="center">
+<img src="./asset/zoom_move.gif" width="700px"/>
+</div>
+
+#### Zoom
+
+- The standard zoom commands are accessed with `Ctrl+(+)`, `Ctrl+(-)` , `Ctrl + Mouse Wheel`
+
+Those commands will just focus in on the center of your current view. But there are some other handy zoom commands available:
+
+- `Shift ⇧2` will zoom to the **current selection**
+- `Shift ⇧1` will zoom to show the **whole canvas**
+
+Finally, here’s an *extra* handy zoom tip to move between Frames without having to zoom in and out the whole time:
+
+- `N` will zoom to the next Frame
+- `Shift ⇧N` will zoom to the previous Frame
+
+#### Pan or Moving the canvas
+
+- Hold `Spacebar` to Pan or Move Canvas
 
 ### Duplicate
 
