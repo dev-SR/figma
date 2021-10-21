@@ -49,11 +49,10 @@
 ### Mask
 
 - Use as Mask
--
+
 <div align="center">
 <img src="./asset/mask_1.gif" width="600px"/>
 </div>
-
 
 ## ShortCut
 
@@ -72,6 +71,14 @@
 <img src="./asset/reuse_style.gif" width="600px"/>
 </div>
 
-> Likewise, styles can be created for Text and other component
+> Likewise, styles can also be created for Text,Effects and other component.
 
+- Creating Style Hierarchy
 
+<div align="center">
+<img src="./asset/styles_hierarchy.jpg" width="800px"/>
+</div>
+
+<div align="center">
+<img src="./asset/styles_hierarchy_2.jpg" width="800px"/>
+</div>
