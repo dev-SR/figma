@@ -6,8 +6,11 @@
 		- [Mask](#mask)
 		- [Reuse Styles](#reuse-styles)
 		- [Creating Components and Reusing Them](#creating-components-and-reusing-them)
+		- [Constraining [applying limitation] Components](#constraining-applying-limitation-components)
 	- [ShortCut](#shortcut)
 		- [Duplicate](#duplicate)
+		- [Direct Child Selection](#direct-child-selection)
+		- [Search anything - Quick Action](#search-anything---quick-action)
 
 # Figma
 
@@ -81,6 +84,12 @@
 
 > Instance can be detach from master components through `Detach Instance` option or `Ctrl+Alt+B` key
 
+### Constraining [applying limitation] Components
+
+<div align="center">
+<img src="./asset/constrain.gif" width="700px"/>
+</div>
+
 ## ShortCut
 
 ### Duplicate
@@ -90,5 +99,22 @@
 
 <div align="center">
 <img src="./asset/duplicate.gif" width="700px"/>
+</div>
+
+### Direct Child Selection
+
+- Hold `Ctrl` and Select Child to select Child element directly without double click
+
+<div align="center">
+<img src="./asset/child_selectiton.jpg" width="700px"/>
+</div>
+
+### Search anything - Quick Action
+
+- Right Click > `Quick Actions`
+- `Ctrl+/`
+
+<div align="center">
+<img src="./asset/quick_action.jpg" width="700px"/>
 </div>
 
