@@ -94,6 +94,12 @@
 <img src="./asset/constrain.gif" width="700px"/>
 </div>
 
+> !!WATCH OUT: Constrain only works with `Components'
+
+<div align="center">
+<img src="./asset/constrain_w.jpg" width="700px"/>
+</div>
+
 ### Rulers
 
 - `Shift ⇧R`
