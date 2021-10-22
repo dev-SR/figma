@@ -9,6 +9,7 @@
 		- [Constraining [applying limitation] Components](#constraining-applying-limitation-components)
 		- [Rulers](#rulers)
 		- [Grid Layout](#grid-layout)
+		- [Auto Layout 🚀🚀🚀](#auto-layout-)
 	- [ShortCut](#shortcut)
 		- [Zoom and Pan](#zoom-and-pan)
 			- [Zoom](#zoom)
@@ -117,6 +118,18 @@
 
 <div align="center">
 <img src="./asset/grid_1.gif" width="700px"/>
+</div>
+
+### Auto Layout 🚀🚀🚀
+
+- Auto Layout Shortcut: Select element then press `Shift + A`
+
+<div align="center">
+<img src="./asset/auto_layout.gif" width="700px"/>
+</div>
+
+<div align="center">
+<img src="./asset/auto_layout_1.gif" width="700px"/>
 </div>
 
 ## ShortCut
