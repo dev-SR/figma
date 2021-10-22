@@ -7,6 +7,7 @@
 		- [Reuse Styles](#reuse-styles)
 		- [Creating Components and Reusing Them](#creating-components-and-reusing-them)
 		- [Constraining [applying limitation] Components](#constraining-applying-limitation-components)
+			- [Groups vs Frame, Component](#groups-vs-frame-component)
 		- [Rulers](#rulers)
 		- [Grid Layout](#grid-layout)
 		- [Auto Layout 🚀🚀🚀](#auto-layout-)
@@ -96,10 +97,21 @@
 <img src="./asset/constrain.gif" width="700px"/>
 </div>
 
-> !!WATCH OUT: Constrain only works with `Components'
+#### Groups vs Frame, Component
+
+> !!WATCH OUT: Constrain only works with `Components` or `Frames`
+
+- `Group` have constrain relative to `root` frame/ArtBoard.
+- `Frames` and `Components` work as independent container.
 
 <div align="center">
 <img src="./asset/constrain_w.jpg" width="700px"/>
+</div>
+
+- constraining frame
+
+<div align="center">
+<img src="./asset/constrain_w_frame.jpg" width="700px"/>
 </div>
 
 ### Rulers
