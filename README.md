@@ -8,6 +8,7 @@
 		- [Creating Components and Reusing Them](#creating-components-and-reusing-them)
 		- [Constraining [applying limitation] Components](#constraining-applying-limitation-components)
 		- [Rulers](#rulers)
+		- [Grid Layout](#grid-layout)
 	- [ShortCut](#shortcut)
 		- [Zoom and Pan](#zoom-and-pan)
 			- [Zoom](#zoom)
@@ -110,6 +111,12 @@
 
 <div align="center">
 <img src="./asset/rulers.gif" width="700px"/>
+</div>
+
+### Grid Layout
+
+<div align="center">
+<img src="./asset/grid_1.gif" width="700px"/>
 </div>
 
 ## ShortCut
