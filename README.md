@@ -12,6 +12,7 @@
 		- [Grid Layout](#grid-layout)
 		- [Auto Layout 🚀🚀🚀](#auto-layout-)
 		- [Alignment, Distribution, & Tidy up Properties](#alignment-distribution--tidy-up-properties)
+		- [Shadow and Blur Effects](#shadow-and-blur-effects)
 	- [ShortCut](#shortcut)
 		- [Zoom and Pan](#zoom-and-pan)
 			- [Zoom](#zoom)
@@ -155,6 +156,12 @@
 
 <div align="center">
 <img src="./asset/alignment.gif"/>
+</div>
+
+### Shadow and Blur Effects
+
+<div align="center">
+<img src="./asset/dropshadow.gif"/>
 </div>
 
 ## ShortCut
