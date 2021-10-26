@@ -83,6 +83,12 @@
 <img src="./asset/styles_hierarchy_2.jpg" width="700px"/>
 </div>
 
+- Quick DarkMode
+
+<div align="center">
+<img src="./asset/darkmode.gif" width="700px"/>
+</div>
+
 ### Creating Components and Reusing Them
 
 <div align="center">
