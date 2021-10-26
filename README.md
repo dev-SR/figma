@@ -11,6 +11,7 @@
 		- [Rulers](#rulers)
 		- [Grid Layout](#grid-layout)
 		- [Auto Layout 🚀🚀🚀](#auto-layout-)
+		- [Alignment, Distribution, & Tidy up Properties](#alignment-distribution--tidy-up-properties)
 	- [ShortCut](#shortcut)
 		- [Zoom and Pan](#zoom-and-pan)
 			- [Zoom](#zoom)
@@ -148,6 +149,12 @@
 
 <div align="center">
 <img src="./asset/auto_layout_1.gif" width="700px"/>
+</div>
+
+### Alignment, Distribution, & Tidy up Properties
+
+<div align="center">
+<img src="./asset/alignment.gif"/>
 </div>
 
 ## ShortCut
