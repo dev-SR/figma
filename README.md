@@ -152,6 +152,10 @@
 <img src="./asset/auto_layout_1.gif" width="700px"/>
 </div>
 
+<div align="center">
+<img src="./asset/auto_layout_2.gif" width="700px"/>
+</div>
+
 ### Alignment, Distribution, & Tidy up Properties
 
 <div align="center">
