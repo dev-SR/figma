@@ -18,7 +18,9 @@
 			- [Zoom](#zoom)
 			- [Pan or Moving the canvas](#pan-or-moving-the-canvas)
 		- [Duplicate](#duplicate)
-		- [Direct Child Selection](#direct-child-selection)
+		- [🚀🚀Direct Child Selection - `Ctrl + Select` 🌟🌟](#direct-child-selection---ctrl--select-)
+		- [🚀🚀Micro Selection - `Ctrl + Select` 🌟🌟](#micro-selection---ctrl--select-)
+		- [🚀🚀Batch Select Multiple Component - `Shift + Select` 🌟🌟](#batch-select-multiple-component---shift--select-)
 		- [Search anything - Quick Action](#search-anything---quick-action)
 
 # Figma
@@ -203,13 +205,30 @@ Finally, here’s an *extra* handy zoom tip to move between Frames without havin
 <img src="./asset/duplicate.gif" width="700px"/>
 </div>
 
-### Direct Child Selection
+### 🚀🚀Direct Child Selection - `Ctrl + Select` 🌟🌟
 
 - Hold `Ctrl` and Select Child to select Child element directly without double click
 
 <div align="center">
 <img src="./asset/child_selectiton.jpg" width="700px"/>
 </div>
+
+### 🚀🚀Micro Selection - `Ctrl + Select` 🌟🌟
+
+- Hold `Ctrl` and Drag to select everything **Under the cursor only**, avoid parent components
+
+<div align="center">
+<img src="./asset/ctr_micro.gif" width="700px"/>
+</div>
+
+### 🚀🚀Batch Select Multiple Component - `Shift + Select` 🌟🌟
+
+- Hold `Shift` and Select Multiple Component at once
+
+<div align="center">
+<img src="./asset/shift_select.gif" width="700px"/>
+</div>
+
 
 ### Search anything - Quick Action
 
